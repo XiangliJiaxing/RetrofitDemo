@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xljx.net.retrofitdemo.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="a"
+        android:gravity="center"
+        android:background="#aee9b2"/>
+
+    <TextView
+        android:id="@+id/tv_b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="b"
+        android:gravity="center"
+        android:background="#aee9b2"/>
+    <TextView
+        android:id="@+id/tv_c"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="c"
+        android:gravity="center"
+        android:background="#aee9b2"/>
+    <TextView
+        android:id="@+id/tv_d"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="d"
+        android:gravity="center"
+        android:background="#aee9b2"/>
+    <TextView
+        android:id="@+id/tv_e"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="e"
+        android:gravity="center"
+        android:background="#aee9b2"/>
+</LinearLayout>
